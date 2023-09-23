@@ -5,4 +5,3 @@ My collection of ansers to the advent-themed programming challange, [Advent of C
 ### Organization
 
 Each year has its own folder, and each year may contain one or more subfolders depending on the languages used.
-
